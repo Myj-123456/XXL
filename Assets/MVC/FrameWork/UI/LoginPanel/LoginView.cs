@@ -12,7 +12,7 @@ public class LoginView : ViewBase
         loginBtn = uiBase.transform.Find("LoginBtn").GetComponent<Button>();
         loginBtn.onClick.AddListener(() =>
         {
-            GameScenesManager.Instance.LoadSceneAsync("Game", "Panel");
+            GameScenesManager.Instance.LoadSceneAsync("Game", "GamePanel");
         });
     }
 }

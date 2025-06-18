@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 94
+  controlID: 90
   draggingID: 0
 --- !u!114 &4
 MonoBehaviour:
@@ -99,7 +99,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 1
-  controlID: 91
+  controlID: 114
   draggingID: 0
 --- !u!114 &5
 MonoBehaviour:
@@ -125,7 +125,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 92
+  controlID: 115
   draggingID: 0
 --- !u!114 &6
 MonoBehaviour:
@@ -302,7 +302,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 93
+  controlID: 42
   draggingID: 0
 --- !u!114 &13
 MonoBehaviour:
@@ -328,7 +328,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 42
+  controlID: 43
   draggingID: 0
 --- !u!114 &14
 MonoBehaviour:
@@ -515,7 +515,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/MVC/Game
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -523,16 +523,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/MVC/Game
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\UGit\XXL
+  m_LastProjectPath: "C:\\Users\\86166\\Desktop\\\u5143\u5B87\u5B99\u5B66\u9662\\\u4E13\u9AD85\\Item\\G5-FrameWork"
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 0a410000
-    m_LastClickedID: 16650
-    m_ExpandedIDs: 0000000000ca9a3b
+    m_SelectedIDs: c65a0000
+    m_LastClickedID: 23238
+    m_ExpandedIDs: 00000000a25a0000a45a0000a65a0000a85a0000aa5a0000ac5a0000c45a000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -560,7 +560,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 00000000a25a0000a45a0000a65a0000a85a0000aa5a0000ac5a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -587,7 +587,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c62300009a600000585c0000405f0000caa2ffff00000000fc92000000930000a2640000c86400007a640000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -700,9 +700,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 8e4f0000
       m_LastClickedID: 0
-      m_ExpandedIDs: 5027ffff
+      m_ExpandedIDs: 2cfbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 

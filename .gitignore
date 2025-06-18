@@ -2,11 +2,3 @@
 *.csproj
 .vsconfig
 G5-FrameWork.sln
-.vs
-obj
-Library
-Logs
-Temp
-UserSettings
-UserSettings
-XXL.sln
